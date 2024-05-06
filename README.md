@@ -1,10 +1,10 @@
 # Sprint_7
 
-# запуск тестов
+# Запуск тестов
 
 `mvn clean test`
 
-# запуск отчета Allure в браузере
+# Запуск отчета Allure в браузере
 
 `mvn allure:serve`
 
